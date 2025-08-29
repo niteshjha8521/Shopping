@@ -1,7 +1,4 @@
-# Credit-and-Debit-Card-Payment-Form
-how to create the Credit and Debit Card Payment Form In HTML and CSS
-
-eCommerce Shopping Website
+ECommerce Shopping Website
 
 This is a responsive eCommerce shopping website built using HTML, CSS, Bootstrap 4, and JavaScript, featuring animated product displays, carousels, parallax effects, and a mobile-friendly UI. It showcases a variety of products like men's wear, ladies' dresses, and kids' outfits.
 
